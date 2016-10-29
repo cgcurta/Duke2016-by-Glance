@@ -1,4 +1,4 @@
-Go to developer.facebook.com and go to products -> messenger platform --> "start building"
+Go to developers.facebook.com and go to products -> messenger platform --> "start building"
 Click My Apps in top corner & Add App.
 
 After you create your app you will see a list of products. Click Messengers Get Started Button until you see a page with some text fields to fill in. You will need some information from this screen.
