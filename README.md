@@ -66,7 +66,7 @@ The "create page" option is on the left-hand side of your news feed.
 ![Creating a FB Page](https://cloud.githubusercontent.com/assets/4122993/20243189/29a01c5e-a91b-11e6-9aad-a047b12a5992.png)
 
 ## Step 3:
-* Head over to https://github.com/KameronKales/Duke2016 and click "Fork" on the upper right-hand side of the page. This makes your own copy of the repository, so that you have write access. Otherwise, you would have to request permission to add your changes to GitHub. 
+* Head over to https://github.com/KameronKales/Duke2016, click "Star" & then click "Fork" on the upper right-hand side of the page. This makes your own copy of the repository, so that you have write access. Otherwise, you would have to request permission to add your changes to GitHub. 
 If you don't have a GitHub account and don't want to make one, skip the above step.
 
 * Once you've forked the repository, head over to the copy on your GitHub, located at *github.com/[YOUR ACCOUNT USERNAME]/Duke2016.* Press "Clone or Download" and copy the link given.
