@@ -78,7 +78,7 @@ If you don't have a GitHub account and don't want to make one, skip the above st
 git clone *YOUR LINK*
 ```
 
-* Navigate into the cloned folder with ```cd Duke2016```
+* Navigate into the cloned folder with ```cd Duke2016-by-Glance```
 
 * Run ```npm install``` in your current folder.
 
