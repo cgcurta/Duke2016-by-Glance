@@ -21,9 +21,6 @@ controller.hears(['hello', 'hi'], 'message_received', function(bot, message) {
     bot.reply(message, 'Hello.');
 });
 
-// If you wanted your bot to respond to additional "hears" such as Go Heels 
-// you could do that below using the same syntax from above.
-
 
 //added to stop the debug tick remarks in console
 controller.on('tick', function(bot, event) {});
